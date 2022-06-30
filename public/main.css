@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 10rem;
+  max-height: 10rem;
+}
+
+html {
+  font-family: "Raleway", sans-serif;
+}
+
+section#root {
+  margin: 1rem;
+}
+
+p {
+  margin: 1rem;
+}
+
+ul {
+  margin: 1rem;
+}

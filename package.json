@@ -1,0 +1,18 @@
+{
+  "name": "rss-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "rss-parser": "3.12.0",
+    "string-strip-html": "8.3.0"
+  }
+}
